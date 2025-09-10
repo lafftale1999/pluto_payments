@@ -1,0 +1,9 @@
+[submodule "pluto_payments_backend"]
+	path = pluto_payments_backend
+	url = https://github.com/lafftale1999/pluto_payments_backend.git
+[submodule "pluto_payments_frontend"]
+	path = pluto_payments_frontend
+	url = https://github.com/lafftale1999/pluto_payments_frontend.git
+[submodule "pluto_payments_hardware"]
+	path = pluto_payments_hardware
+	url = https://github.com/lafftale1999/pluto_payments_hardware.git
