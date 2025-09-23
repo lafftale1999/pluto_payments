@@ -33,6 +33,9 @@ Link to project: https://github.com/lafftale1999/pluto_payments_backend
 
 Link to project: https://github.com/lafftale1999/pluto_payments_frontend
 
+### Architecture
+![System Architecture describing the whole ecosystem](resources/Pluto%20Payments%20Systemarkitektur.png)
+
 ## Dependencies
 You can find all dependencies described in each submodule. Click on the module for information on how to download and build it.
 
