@@ -2,7 +2,7 @@
 A lightweight credit card system with hardware, backend and frontend implementations. Buit by [`Maksym`](https://github.com/Zar000), [`Johann`](https://github.com/hager3737) and [`Carl`](https://github.com/lafftale1999).
 
 ## Overview
-### Hardware overview
+### Hardware
 - **Real-time OS**: FreeRTOS with tasks and queue management  
 - **Networking**: Wi-Fi with connect/disconnect logic  
 - **User Interface**: 16x2 LCD for live feedback  
@@ -15,7 +15,7 @@ A lightweight credit card system with hardware, backend and frontend implementat
 
 Link to project: https://github.com/lafftale1999/pluto_payments_hardware
 
-### Backend overview
+### Backend
 * **Networking**:
   - 8080 for requests through /api/*
   - 443 for confidential requests through /device/*
