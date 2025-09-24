@@ -29,7 +29,10 @@ Link to project: https://github.com/lafftale1999/pluto_payments_hardware
 Link to project: https://github.com/lafftale1999/pluto_payments_backend
 
 ### Frontend overview
-
+* Session-based login system using backend-issued cookies
+* Secure API communication with the backend
+* Account overview: see card, invoices, and account details
+* Invoice details page with transaction history
 
 Link to project: https://github.com/lafftale1999/pluto_payments_frontend
 
