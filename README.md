@@ -36,6 +36,16 @@ Link to project: https://github.com/lafftale1999/pluto_payments_frontend
 ### Architecture
 ![System Architecture describing the whole ecosystem](resources/Pluto%20Payments%20Systemarkitektur.png)
 
+## Clone project
+To clone the project and all affected submodules use the command:
+```sh
+git clone --recurse-submodules https://github.com/lafftale1999/pluto_payments.git
+```
+
+## If you already cloned the project but didn't add the submodules, use this command:
+```sh
+git submodule update --init --recursive
+```
 ## Dependencies
 You can find all dependencies described in each submodule. Click on the module for information on how to download and build it.
 
