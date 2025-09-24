@@ -1,5 +1,5 @@
 # PLUTO PAYMENTS
-A lightweight credit card system with hardware, backend and frontend implementations. Buit by [`Maksym`](https://github.com/Zar000), [`Johann`](https://github.com/hager3737) and [`Carl`](https://github.com/lafftale1999).
+A lightweight credit card system with hardware, backend and frontend implementations. Built by [`Maksym`](https://github.com/Zar000), [`Johann`](https://github.com/hager3737) and [`Carl`](https://github.com/lafftale1999). For more information, please visit each individual module!
 
 ## Overview
 ### Hardware
