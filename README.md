@@ -39,6 +39,9 @@ Link to project: https://github.com/lafftale1999/pluto_payments_frontend
 ### Architecture
 ![System Architecture describing the whole ecosystem](resources/Pluto%20Payments%20Systemarkitektur.png)
 
+### System Specification
+We've included a System Specification in Swedish which describes our requirements specification, goal of the project, defending our module choices and which improvements that can be made. You can find the PDF here: [Link to PDF](resources/PlutoPayments.pdf)
+
 ## Clone project
 To clone the project and all affected submodules use the command:
 ```sh
